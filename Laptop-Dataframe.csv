@@ -1,0 +1,71 @@
+brand,laptop_name,display_size,processor_type,graphics_card,disk_space,price,ratings_5max
+Lenovo,IdeaPad 321,15, Intel Core i7-8551, AMD Radeon 531, 2 TB HDD,3149,1
+Lenovo,IdeaPad 321,15, Intel Core i5-8251, AMD Radeon 531, 1 TB HDD,2519,4
+Lenovo,IdeaPad 321,14, Intel Core i3-61, Intel GMA HD, 1 TB HDD,1779,3
+Lenovo,IdeaPad 321,15, Intel Core i5-8251, Intel GMA HD, 1 TB HDD,21,3
+Lenovo,IdeaPad 331,14, Intel Core i5-8251, Intel UHD Graphics 621, 1 TB HDD,1849,3
+Lenovo,IdeaPad 331,14, Intel Core i5-8251, Intel UHD Graphics 621, 256 GB (PCIe Flash),1999,1
+Lenovo,IdeaPad 331,15, Intel Core i7-8551, AMD Radeon 531, 128 GB M,2789,3
+Lenovo,IdeaPad 331,15, Intel Core i7-8551, AMD Radeon 531, 2 TB HDD,2899,2
+Lenovo,IdeaPad 331,15, Intel Celeron N41, Intel UHD Graphics 61, 1 TB HDD,1179,3
+Lenovo,IdeaPad 331,15, Intel Core i5-8251, AMD Radeon 541, 2 TB HDD,2499,2
+Lenovo,IdeaPad 331,15, Intel Celeron N41, Intel HD Graphics 61,51,1359,3
+Lenovo,IdeaPad 331,15, Intel Core i5-8251, AMD Radeon 535 (2 GB), 1 TB HDD,2169,4
+Lenovo,IdeaPad 331,14, Intel Core i3-8131, Intel HD Graphics 621, 2 TB HDD,1589,3
+Lenovo,IdeaPad 331,14, Intel Core i3-8131, Intel HD Graphics 621, 2 TB HDD,1699,3
+Lenovo,IdeaPad S131,14, Intel Celeron N41, Intel UHD Graphics 61, 64 GB (eMMC),899,2
+Lenovo,IdeaPad S145,15, Intel Celeron 421, Intel GMA HD,51,11,2
+Lenovo,IdeaPad S341,15, Intel Core i5-8265U, NVIDIA GeForce MX231, 128 GB M,2299,2
+Lenovo,IdeaPad S341,14, Intel Core i3-8145U, Intel GMA HD, 1 TB HDD,1499,4
+Lenovo,IdeaPad S341,14, Intel Core i5-8265U, Intel GMA HD, 1 TB HDD,1849,4
+Lenovo,IdeaPad S531,13, Intel Core i7-8565U, NVIDIA GeForce MX151, 512 GB NVMe M,3599,5
+Dell,Inspiron 13 5371,13, Intel Core i5-8251, AMD Radeon 531, 256 GB SSD,3149,1
+Dell,Inspiron 14 5481,14, Intel Core i7-8565U, NVIDIA GeForce MX251, 128 GB SSD/1 TB HDD,41,4
+Dell,Inspiron 15 3567,15, Intel Core i3-71, Intel HD Graphics 621, 1 TB HDD,1849,2
+Dell,Inspiron 15 3567,15, Intel Core i7-751, AMD Radeon R5-M341, 1 TB HDD,2749,2
+Dell,Inspiron 15 3567,15, Intel Core i5-8251, AMD Radeon 521, 1 TB HDD,2549,4
+Dell,Inspiron 15 3567,15, Intel Core i3-61, Intel GMA HD, 1 TB HDD,1889,3
+Dell,Inspiron 15 3567,15, Intel Core i5-721, AMD Radeon R5-M341, 1 TB HDD,2469,3
+Dell,Inspiron 15 3567,15, Intel Core i5-721, AMD Radeon R5-M431, 1 TB HDD,2249,3
+Dell,Inspiron 15 3573,15, Intel Celeron N41, Intel GMA HD,51,1299,4
+Dell,Inspiron 15 3576,15, Intel Core i5-8251, AMD Radeon 521, 1 TB HDD,2299,1
+Dell,Inspiron 15 3581,15, Intel Core i5-8265U, AMD Radeon 521, 1 TB HDD,2299,3
+Dell,Inspiron 15 3581,15, Intel Core i7-8565U, AMD Radeon 521, 1 TB HDD,2799,4
+Dell,Inspiron 15 3581,15, Intel Core i5-8265U, AMD Radeon 521, 1 TB HDD,2199,5
+Dell,Inspiron 15 3581,15, Intel Core i3-71, Intel HD Graphics 621, 1 TB HDD,1699,5
+Dell,Inspiron 15 3582,15, Intel Celeron N41, Intel UHD Graphics 61,51,1299,5
+Dell,Inspiron 15 5567,15, Intel Core i7-751, AMD Radeon R7-M445 (4 GB), 1 TB HDD,3249,5
+Dell,Inspiron 15 5571,15, Intel Core i5-8251, AMD Radeon 531, 1 TB HDD,2939,4
+Dell,Inspiron 15 5584,15, Intel Core i7-8565U, NVIDIA GeForce MX131, 256 GB SSD/1 TB HDD,3999,3
+Dell,Inspiron 3567,15, Intel Core i3-61, Intel GMA HD, 1 TB HDD,1429,4
+Apple,MacBook,12, Intel Core M3, Intel HD Graphics 615, 256 GB SSD,5269,5
+Apple,MacBook,12, Intel Core M3, Intel HD Graphics 615, 256 GB SSD,4669,5
+Apple,MacBook Air,13, Intel Core i5 Dual Core, Intel HD Graphics 61, 128 GB (PCIe Flash),3399,4
+Apple,MacBook Air (Retina),13, Intel Core i5 Dual Core, Intel UHD Graphics 617, 128 GB (PCIe SSD),4649,4
+Apple,MacBook Air (Retina),13, Intel Core i5 Dual Core, Intel UHD Graphics 617, 256 GB (PCIe SSD),5399,3
+Apple,MacBook Air (Retina),13, Intel Core i5 Dual Core, Intel UHD Graphics 617, 256 GB (PCIe SSD),5449,4
+Apple,MacBook Air (Retina),13, Intel Core i5 Dual Core, Intel UHD Graphics 617, 256 GB (PCIe SSD),5449,3
+Apple,MacBook Air (Retina),13, Intel Core i5 Dual Core, Intel UHD Graphics 617, 128 GB (PCIe SSD),4599,3
+Apple,MacBook Air (Retina),13, Intel Core i5 Dual Core, Intel UHD Graphics 617, 128 GB (PCIe SSD),4799,3
+Apple,MacBook Air (Retina),13, Intel Core i5 Dual Core, Intel UHD Graphics 617, 128 GB (PCIe SSD),4799,1
+Apple,MacBook Air (Retina),13, Intel Core i5 Dual Core, Intel UHD Graphics 617, 256 GB (PCIe SSD),5649,2
+Apple,MacBook Pro (Retina + Touch Bar),15, Intel Core i7 6 Core, Radeon Pro 555X GDDR5 (4 GB), 256 GB SSD,91,3
+Apple,MacBook Pro (Retina + Touch Bar),13, Intel Core i5 Quad Core, Intel Iris Plus Graphics 655, 512 GB SSD,7599,4
+Apple,MacBook Pro (Retina + Touch Bar),13, Intel Core i5 Quad Core, Intel Iris Plus Graphics 655, 256 GB SSD,6969,4
+Apple,MacBook Pro (Retina + Touch Bar),13, Intel Core i5 Quad Core, Intel Iris Plus Graphics 645, 128 GB SSD,5649,5
+Apple,MacBook Pro (Retina + Touch Bar),13, Intel Core i5 Quad Core, Intel Iris Plus Graphics 645, 256 GB SSD,6499,2
+Apple,MacBook Pro (Retina + Touch Bar),15, Intel Core i7 6 Core, Radeon Pro 555X GDDR5 (4 GB), 256 GB SSD,11,5
+Apple,MacBook Pro (Retina + Touch Bar),15, Intel Core i9, Radeon Pro 561, 512 GB SSD,12499,5
+Apple,MacBook Pro (Retina + Touch Bar),13, Intel Core i5 Quad Core, Intel Iris Plus Graphics 655, 256 GB SSD,7999,3
+Apple,MacBook Pro (Retina + Touch Bar),13, Intel Core i5 Quad Core, Intel Iris Plus Graphics 655, 512 GB SSD,8699,5
+Apple,MacBook Pro (Retina + Touch Bar),15, Intel Core i7 Quad Core, Radeon Pro 555 GDDR5 (2 GB), 256 GB SSD,7679,4
+Apple,MacBook Pro (Retina + Touch Bar),15, Intel Core i7 6 Core, Radeon Pro 561, 512 GB SSD,11,4
+Apple,MacBook Pro (Retina + Touch Bar),13, Intel Core i5 Dual Core, Intel Iris Plus Graphics 651, 512 GB SSD,8499,3
+Apple,MacBook Pro (Retina + Touch Bar),13, Intel Core i5 Dual Core, Intel Iris Graphics 551, 256 GB SSD,7768,2
+Apple,MacBook Pro (Retina + Touch Bar),15, Intel Core i7 6 Core, Radeon Pro 555X GDDR5 (4 GB), 256 GB SSD,11,2
+Apple,MacBook Pro (Retina + Touch Bar),15, Intel Core i7 6 Core, Radeon Pro 561, 512 GB SSD,11899,4
+Apple,MacBook Pro (Retina),13, Intel Core i5 Dual Core, Intel Iris Plus Graphics 641, 128 GB SSD,5669,4
+Apple,MacBook Pro (Retina),13, Intel Core i5 Dual Core, Intel Iris Plus Graphics 641, 256 GB SSD,6499,4
+Apple,MacBook Pro (Retina),15, Intel Core i7 Quad Core, AMD Radeon R9-M371, 512 GB SSD,6824,3
+Apple,MacBook Pro (Retina),13, Intel Core i5 Dual Core, Intel Iris Plus Graphics 641, 128 GB SSD,5269,4
+Apple,MacBook Pro (Retina),15, Intel Core i7 Quad Core, Intel Iris Pro Graphics, 256 GB SSD,8189,4
