@@ -2,7 +2,6 @@
 ![Laptop Recommendation Prediction System ML Project Look](https://github.com/user-attachments/assets/17ec851b-7eb1-4902-9bad-b17471b86b83)
 ![pngwing com (14)](https://github.com/user-attachments/assets/da3de182-fd5a-43c0-b54f-9301198081f7)
 
-```markdown
 # Laptop Recommendation Using Machine Learning
 
 ## 🚀 Project Overview
